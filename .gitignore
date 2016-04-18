@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+createzip.sh
+MinecraftForge-Credits.txt
+LICENSE-fml.txt
+forge-1.9-12.16.0.1863-1.9-changelog.txt
+CREDITS-fml.txt
+*.zip
+Paulscode IBXM Library License.txt
+Paulscode SoundSystem CodecIBXM License.txt
+README.txt
+MinecraftForge-License.txt
+
